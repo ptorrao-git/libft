@@ -146,7 +146,7 @@ Once you've compiled the library, you can link it to your other projects. For ex
 
 3. You can then use the functions from LIBFT in your code. For example:
 
-   ```my_program.c
+   ```c
    #include "libft.h"
    #include <stdio.h>
 
